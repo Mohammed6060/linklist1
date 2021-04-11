@@ -1,0 +1,10 @@
+#include <iostream>
+Using namespace std;
+Class Node{
+Public:
+Char data;
+Node* next;
+};
+int main() {
+return 0;
+}
